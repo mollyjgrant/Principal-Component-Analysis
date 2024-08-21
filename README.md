@@ -1,3 +1,3 @@
 # Principal-Component-Analysis
 
-Basic PCA code
+Basic PCA code.
